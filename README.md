@@ -1,1 +1,1 @@
-# AI-ML-Patter-Detection
+# AI-ML-Pattern-Detection
